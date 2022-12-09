@@ -159,5 +159,3 @@ patch:
 工具：[`Fastgithub`](https://github.com/dotnetcore/FastGithub)
 
 未完待续……
-
-[https://github.com/rom1v/sndcpy]: 
